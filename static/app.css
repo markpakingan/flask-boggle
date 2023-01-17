@@ -1,0 +1,8 @@
+.board {
+    border: solid 1px black;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 200%;
+    padding: 2%;
+  }
+
